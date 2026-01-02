@@ -106,18 +106,6 @@ I build **secure, scalable full-stack applications**, **data-driven systems**, a
 
 > 🧠 *Led backend development across all projects and contributed selectively to frontend features.*
 
----
-
-## 📜 Certifications
-
-- 🎓 University of Leeds — *Introduction to Programming Using Python*
-- 🎓 University of Leeds — *Learn to Code for the Web*
-- 🎓 University of Leeds — *Version Control*
-- 🎓 University of Leeds — *Software Testing & Validation*
-- 🎓 Udemy — *Complete Web Development Course*
-
----
-
 
 ---
 
