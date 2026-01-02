@@ -18,7 +18,7 @@ I build **secure, scalable full-stack applications**, **data-driven systems**, a
 
 - 🎓 **BS in Data Science & Applications**  
   *Indian Institute of Technology, Madras (2024–Present)*  
-  *Currently in Diploma Level*
+  *Currently in Deploma Level*  
   **CGPA:** 9.13 (Foundation level)
 
 - 🏫 **Class XII (CBSE):** 95.2%  
