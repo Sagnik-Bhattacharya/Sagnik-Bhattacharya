@@ -125,7 +125,7 @@ I build **secure, scalable full-stack applications**, **data-driven systems**, a
 
 - 🌐 **Portfolio:** https://portfolio-pied-zeta-36.vercel.app/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sagnik-bhattacharya-462840319
-- 📫 **Email:** bhattacharyasagnik33@gmail.com
+- 📫 **Email:** bhattacharyas661@gmail.com
 
 ---
 
