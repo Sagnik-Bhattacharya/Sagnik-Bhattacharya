@@ -71,16 +71,16 @@ Password manager with encrypted vaults, password strength analytics, and dual ca
 Exploratory analysis of Titanic dataset with **Python, MySQL & Excel dashboards**.  
 **Repo:** [Link](https://github.com/Sagnik-Bhattacharya/titanic-survival-analysis)
 
-### 🔹 **WebNavi-Main**  
+### 🔹 **WebNavi-Main**
 AI-driven web form automation and testing using local LLMs (**Python**).  
 **Repo:** [Link](https://github.com/Sagnik-Bhattacharya/WebNavi-Main)
 ---
 
 ## 🌐 Other Notable Projects (Portfolio Links)
 
-- **Crudzy — Backend-as-a-Service:** [Live Demo]([https://crudzy.com](https://crudzy.com/))  
-- **Transform — AI Diagram Generator:** [Live Demo]([https://doxel.vercel.app/](https://doxel.vercel.app/))
-- **Doxel — Documentation Builder:** [Live Demo]([https://doxel.vercel.app/](https://doxel.vercel.app/))  
+- **Crudzy — Backend-as-a-Service:** [Live Demo](https://crudzy.com/)
+- **Transform — AI Diagram Generator:** [Live Demo](https://doxel.vercel.app/)
+- **Doxel — Documentation Builder:** [Live Demo](https://doxel.vercel.app/)
 
 > 🧠 *Led backend development across all projects and contributed selectively to frontend features.*
 > Private repos; live demos available. Focus on backend, auth, and system architecture.
