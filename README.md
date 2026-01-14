@@ -1,12 +1,8 @@
 # 👋 Hi, I'm **Sagnik Bhattacharya**
 
-### 🚀 Full-Stack Developer | Data Science Student | AI & Automation Enthusiast
+**Backend-Focused Full-Stack Developer | Systems & Data Engineering | BS Data Science @ IIT Madras | B.Tech CSE @ JGEC ‘28**
 
-Second-year **Computer Science undergraduate** at **Jalpaiguri Government Engineering College**  
-and **BS Data Science student at IIT Madras**.  
-I build **secure, scalable full-stack applications**, **data-driven systems**, and **AI-powered tools** with a strong focus on clean architecture and real-world usability.
-
-🌐 **Portfolio:** https://portfolio-pied-zeta-36.vercel.app/
+I build **scalable backend systems**, **developer tooling**, and **AI-powered applications**, with a focus on **clean architecture**, **security**, and **real-world usability**. I enjoy taking projects from **design → implementation → deployment**.
 
 ---
 
@@ -14,7 +10,7 @@ I build **secure, scalable full-stack applications**, **data-driven systems**, a
 
 - 🎓 **B.Tech in Computer Science & Engineering**  
   *Jalpaiguri Government Engineering College (2024–2028)*  
-  **CGPA:** 8.59 (up to 1st year)
+  **YGPA:** 8.59 (1st year)
 
 - 🎓 **BS in Data Science & Applications**  
   *Indian Institute of Technology, Madras (2024–Present)*  
@@ -38,82 +34,73 @@ I build **secure, scalable full-stack applications**, **data-driven systems**, a
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+**Backend & Systems:** Node.js • Express • FastAPI • JWT/AuthZ/AuthN • MongoDB • PostgreSQL • MySQL • Prisma • Drizzle  
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle)
+**Frontend:** React • Next.js • TailwindCSS • HTML • CSS • Responsive Design  
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+**Data & AI:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn • Power BI • TensorFlow  
 
-### 📊 Data & Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2C2C?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+**Desktop / Automation:** Tkinter • CustomTkinter • Python Automation Scripts  
+
+**Programming & Tools:** JavaScript • TypeScript • Java • C • C++ • Git • GitHub • Vercel • Render  
+
+> Currently exploring **agentic AI, LangGraph, and system automation**.
 
 ---
 
-## 🚀 Featured Projects
 
-### 🔹 **Crudzy** — Backend-as-a-Service  
-🌐 https://crudzy.com  
-- Dynamic MongoDB schema generation  
-- Hybrid **JWT + API token authentication**  
-- Role-based permissions & public/private collections  
-- Built for scalability and developer productivity
+## 🚀 Pinned Public Projects
 
+### 🔹 **college-majors-eda-dashboard**  
+Exploratory Data Analysis of US college majors with **Python & Excel dashboards**.  
+**Repo:** [Link](https://github.com/Sagnik-Bhattacharya/college-majors-eda-dashboard)
+
+### 🔹 **global-superstore-data-analytics**  
+End-to-end analytics on Global Superstore dataset with **Python, SQL & Excel dashboards**.  
+**Repo:** [Link](https://github.com/Sagnik-Bhattacharya/global-superstore-data-analytics)
+
+### 🔹 **PyBackupSync**  
+Desktop backup/restore tool with encryption, incremental processing, and **CustomTkinter UI**.  
+**Repo:** [Link](https://github.com/Sagnik-Bhattacharya/PyBackupSync)
+
+### 🔹 **secure-vault**  
+Password manager with encrypted vaults, password strength analytics, and dual card/list UI (**Python**).  
+**Repo:** [Link](https://github.com/Sagnik-Bhattacharya/secure-vault)
+
+### 🔹 **titanic-survival-analysis**  
+Exploratory analysis of Titanic dataset with **Python, MySQL & Excel dashboards**.  
+**Repo:** [Link](https://github.com/Sagnik-Bhattacharya/titanic-survival-analysis)
+
+### 🔹 **WebNavi-Main**  
+AI-driven web form automation and testing using local LLMs (**Python**).  
+**Repo:** [Link](https://github.com/Sagnik-Bhattacharya/WebNavi-Main)
 ---
 
-### 🔹 **Transform** — AI Diagram Generator  
-🌐 https://systemdraw.vercel.app/  
-- Generates **ER diagrams, flowcharts & architecture maps**
-- Powered by **Gemini API**
-- Converts prompts into structured system designs
+## 🌐 Other Notable Projects (Portfolio Links)
 
----
-
-### 🔹 **Doxel** — Documentation Builder  
-🌐 https://doxel.vercel.app/  
-- Markdown + code block documentation platform  
-- Publish production-ready docs  
-- Multi-editor collaboration (in progress)
-
----
-
-### 🔹 **URL Shortener**  
-🔗 https://github.com/Sagnik-Bhattacharya/Url-Shortener  
-- Auth-based URL shortening  
-- QR code generation  
-- Click tracking & analytics  
-- Built with **Next.js + MongoDB**
+- **Crudzy — Backend-as-a-Service:** [Live Demo]([https://crudzy.com](https://crudzy.com/))  
+- **Transform — AI Diagram Generator:** [Live Demo]([https://doxel.vercel.app/](https://doxel.vercel.app/))
+- **Doxel — Documentation Builder:** [Live Demo]([https://doxel.vercel.app/](https://doxel.vercel.app/))  
 
 > 🧠 *Led backend development across all projects and contributed selectively to frontend features.*
+> Private repos; live demos available. Focus on backend, auth, and system architecture.
 
+## 📜 Certifications
+
+- **Full-Stack Generative & Agentic AI with Python** — Udemy (2025)  
+- **Working with Version Control** — FutureLearn (2025)  
+- **Foundations of Software Testing & Validation** — FutureLearn (2025)  
+- **Complete Web Development Course** — Udemy (2025)  
+- **How to Get Into Web Development** — FutureLearn (2025)  
+- **An Introduction to Programming Using Python** — FutureLearn (2025)  
+- **Learn to Code for the Web** — FutureLearn (2025)
 
 ---
 
 ## 🤝 Connect With Me
 
-- 🌐 **Portfolio:** https://portfolio-pied-zeta-36.vercel.app/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sagnik-bhattacharya-462840319
+- 🌐 **Portfolio:** [https://portfolio-pied-zeta-36.vercel.app/](https://portfolio-pied-zeta-36.vercel.app/)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/sagnik-bhattacharya-462840319](https://www.linkedin.com/in/sagnik-bhattacharya-462840319)
 - 📫 **Email:** bhattacharyas661@gmail.com
 
 ---
