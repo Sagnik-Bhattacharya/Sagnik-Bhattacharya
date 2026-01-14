@@ -74,6 +74,7 @@ Exploratory analysis of Titanic dataset with **Python, MySQL & Excel dashboards*
 ### 🔹 **WebNavi-Main**
 AI-driven web form automation and testing using local LLMs (**Python**).  
 **Repo:** [Link](https://github.com/Sagnik-Bhattacharya/WebNavi-Main)
+
 ---
 
 ## 🌐 Other Notable Projects (Portfolio Links)
