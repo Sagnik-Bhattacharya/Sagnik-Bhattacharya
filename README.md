@@ -44,7 +44,7 @@ I build **scalable backend systems**, **developer tooling**, and **AI-powered ap
 
 **Programming & Tools:** JavaScript • TypeScript • Java • C • C++ • Git • GitHub • Vercel • Render  
 
-> Currently exploring **agentic AI, LangGraph, and system automation**.
+> Currently exploring **agentic AI, LangGraph, and system automation and Machine Learning**.
 
 ---
 
