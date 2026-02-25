@@ -1,110 +1,149 @@
-# 👋 Hi, I'm **Sagnik Bhattacharya**
+# Sagnik Bhattacharya
 
-**Backend-Focused Full-Stack Developer | Systems & Data Engineering | BS Data Science @ IIT Madras | B.Tech CSE @ JGEC ‘28**
-
-I build **scalable backend systems**, **developer tooling**, and **AI-powered applications**, with a focus on **clean architecture**, **security**, and **real-world usability**. I enjoy taking projects from **design → implementation → deployment**.
-
----
-
-## 🎓 Education
-
-- 🎓 **B.Tech in Computer Science & Engineering**  
-  *Jalpaiguri Government Engineering College (2024–2028)*  
-  **YGPA:** 8.59 (1st year)
-
-- 🎓 **BS in Data Science & Applications**  
-  *Indian Institute of Technology, Madras (2024–Present)*  
-  *Currently in Deploma Level*  
-  **CGPA:** 9.13 (Foundation level)
-
-- 🏫 **Class XII (CBSE):** 95.2%  
-- 🏫 **Class X (ICSE):** 95.2%
+**Backend-Focused Full-Stack Developer**
+**Systems & Data Engineering Enthusiast**
+**B.S. in Data Science, IIT Madras | B.Tech in CSE, JGEC (2028)**
 
 ---
 
-## 🧑‍💻 About Me
+## Professional Summary
 
-- 🔭 Backend-focused **Full-Stack Developer**
-- 📊 Strong foundation in **Data Analysis & Visualization**
-- 🤖 Building **AI-powered tools & automation systems**
-- 🛡️ Experienced in **auth, security, scalable APIs**
-- 🌱 Constantly learning and shipping production-ready projects
+I am a backend-focused full-stack developer with a strong foundation in systems design, data engineering, and applied artificial intelligence. My work centers on building scalable backend architectures, secure APIs, developer tooling, and AI-powered automation systems.
+
+I approach software development holistically — from system design and architectural planning to implementation, testing, and deployment — with emphasis on clean code, security, and production readiness.
 
 ---
 
-## 🛠️ Tech Stack
+## Education
 
-**Backend & Systems:** Node.js • Express • FastAPI • JWT/AuthZ/AuthN • MongoDB • PostgreSQL • MySQL • Prisma • Drizzle  
+**Bachelor of Technology (B.Tech), Computer Science & Engineering**
+Jalpaiguri Government Engineering College (2024–2028)
+Year GPA (First Year): 8.59
 
-**Frontend:** React • Next.js • TailwindCSS • HTML • CSS • Responsive Design  
+**Bachelor of Science (B.S.), Data Science & Applications**
+Indian Institute of Technology, Madras (2024–Present)
+Current Level: Diploma
+CGPA (Foundation Level): 9.13
 
-**Data & AI:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn • Power BI • TensorFlow  
-
-**Desktop / Automation:** Tkinter • CustomTkinter • Python Automation Scripts  
-
-**Programming & Tools:** JavaScript • TypeScript • Java • C • C++ • Git • GitHub • Vercel • Render  
-
-> Currently exploring **agentic AI, LangGraph, and system automation and Machine Learning**.
-
----
-
-
-## 🚀 Pinned Public Projects
-
-### 🔹 **college-majors-eda-dashboard**  
-Exploratory Data Analysis of US college majors with **Python & Excel dashboards**.  
-**Repo:** [Link](https://github.com/Sagnik-Bhattacharya/college-majors-eda-dashboard)
-
-### 🔹 **global-superstore-data-analytics**  
-End-to-end analytics on Global Superstore dataset with **Python, SQL & Excel dashboards**.  
-**Repo:** [Link](https://github.com/Sagnik-Bhattacharya/global-superstore-data-analytics)
-
-### 🔹 **PyBackupSync**  
-Desktop backup/restore tool with encryption, incremental processing, and **CustomTkinter UI**.  
-**Repo:** [Link](https://github.com/Sagnik-Bhattacharya/PyBackupSync)
-
-### 🔹 **secure-vault**  
-Password manager with encrypted vaults, password strength analytics, and dual card/list UI (**Python**).  
-**Repo:** [Link](https://github.com/Sagnik-Bhattacharya/secure-vault)
-
-### 🔹 **titanic-survival-analysis**  
-Exploratory analysis of Titanic dataset with **Python, MySQL & Excel dashboards**.  
-**Repo:** [Link](https://github.com/Sagnik-Bhattacharya/titanic-survival-analysis)
-
-### 🔹 **WebNavi-Main**
-AI-driven web form automation and testing using local LLMs (**Python**).  
-**Repo:** [Link](https://github.com/Sagnik-Bhattacharya/WebNavi-Main)
+**Academic Background**
+Class XII (CBSE): 95.2%
+Class X (ICSE): 95.2%
 
 ---
 
-## 🌐 Other Notable Projects (Portfolio Links)
+## Technical Expertise
 
-- **Crudzy — Backend-as-a-Service:** [Live Demo](https://crudzy.com/)
-- **Transform — AI Diagram Generator:** [Live Demo](https://systemdraw.vercel.app/)
-- **Doxel — Documentation Builder:** [Live Demo](https://doxel.vercel.app/)
+### Backend & Systems Engineering
 
-> 🧠 *Led backend development across all projects and contributed selectively to frontend features.*
-> Private repos; live demos available. Focus on backend, auth, and system architecture.
+Node.js • Express.js • FastAPI
+JWT Authentication • Authorization (AuthN/AuthZ)
+MongoDB • PostgreSQL • MySQL
+Prisma ORM • Drizzle ORM
+Secure API Design • REST Architecture • Scalable System Design
 
-## 📜 Certifications
+### Frontend Development
 
-- **Full-Stack Generative & Agentic AI with Python** — Udemy (2025)  
-- **Working with Version Control** — FutureLearn (2025)  
-- **Foundations of Software Testing & Validation** — FutureLearn (2025)  
-- **Complete Web Development Course** — Udemy (2025)  
-- **How to Get Into Web Development** — FutureLearn (2025)  
-- **An Introduction to Programming Using Python** — FutureLearn (2025)  
-- **Learn to Code for the Web** — FutureLearn (2025)
+React • Next.js
+Tailwind CSS • Responsive Design
+HTML5 • CSS3
+
+### Data Science & AI
+
+Python • Pandas • NumPy
+Matplotlib • Seaborn
+Scikit-Learn • TensorFlow
+Power BI • Data Visualization
+Exploratory Data Analysis (EDA) • Statistical Modeling
+
+### Automation & Desktop Applications
+
+Python Automation Scripts
+Tkinter • CustomTkinter
+Secure Local Tooling & Utility Applications
+
+### Programming Languages & Tools
+
+JavaScript • TypeScript • Python • Java • C • C++
+Git • GitHub
+Vercel • Render
+
+Currently exploring: Agentic AI systems, LangGraph, automation architectures, and applied machine learning.
 
 ---
 
-## 🤝 Connect With Me
+## Selected Public Projects
 
-- 🌐 **Portfolio:** [https://portfolio-pied-zeta-36.vercel.app/](https://portfolio-pied-zeta-36.vercel.app/)
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/sagnik-bhattacharya-462840319](https://www.linkedin.com/in/sagnik-bhattacharya-462840319)
-- 📫 **Email:** bhattacharyas661@gmail.com
+### College Majors EDA Dashboard
+
+Comprehensive exploratory data analysis of U.S. college majors using Python and Excel dashboards.
+Repository: [https://github.com/Sagnik-Bhattacharya/college-majors-eda-dashboard](https://github.com/Sagnik-Bhattacharya/college-majors-eda-dashboard)
+
+### Global Superstore Data Analytics
+
+End-to-end analytics project utilizing Python, SQL, and Excel dashboards for business insight extraction.
+Repository: [https://github.com/Sagnik-Bhattacharya/global-superstore-data-analytics](https://github.com/Sagnik-Bhattacharya/global-superstore-data-analytics)
+
+### PyBackupSync
+
+Desktop backup and restore system featuring encryption, incremental processing, and a CustomTkinter-based interface.
+Repository: [https://github.com/Sagnik-Bhattacharya/PyBackupSync](https://github.com/Sagnik-Bhattacharya/PyBackupSync)
+
+### Secure Vault
+
+Encrypted password manager with password strength analytics and dual UI modes (card and list).
+Repository: [https://github.com/Sagnik-Bhattacharya/secure-vault](https://github.com/Sagnik-Bhattacharya/secure-vault)
+
+### Titanic Survival Analysis
+
+Data analysis project integrating Python, MySQL, and Excel dashboards for exploratory and statistical evaluation.
+Repository: [https://github.com/Sagnik-Bhattacharya/titanic-survival-analysis](https://github.com/Sagnik-Bhattacharya/titanic-survival-analysis)
+
+### WebNavi
+
+AI-driven web form automation and browser-based task execution powered by local LLMs.
+Repository: [https://github.com/Sagnik-Bhattacharya/WebNavi-Main](https://github.com/Sagnik-Bhattacharya/WebNavi-Main)
 
 ---
 
-⭐ *If you like my work, feel free to star a repository or connect!*  
-Thanks for visiting 🚀
+## Additional Notable Projects
+
+**Crudzy — Backend-as-a-Service Platform**
+Live: [https://crudzy.com/](https://crudzy.com/)
+
+**Transform — AI Diagram Generator**
+Live: [https://systemdraw.vercel.app/](https://systemdraw.vercel.app/)
+
+**Doxel — Documentation Builder Platform**
+Live: [https://doxel.vercel.app/](https://doxel.vercel.app/)
+
+Note: Backend architecture, authentication systems, and core infrastructure were designed and implemented by me. Source repositories are private; live deployments are available.
+
+---
+
+## Certifications
+
+* Full-Stack Generative & Agentic AI with Python — Udemy (2025)
+* Working with Version Control — FutureLearn (2025)
+* Foundations of Software Testing & Validation — FutureLearn (2025)
+* Complete Web Development Course — Udemy (2025)
+* How to Get Into Web Development — FutureLearn (2025)
+* An Introduction to Programming Using Python — FutureLearn (2025)
+* Learn to Code for the Web — FutureLearn (2025)
+
+---
+
+## Professional Interests
+
+* Scalable Backend Architecture
+* Distributed Systems & System Design
+* AI Agents & Automation Systems
+* Data Engineering & Analytics Infrastructure
+* Secure Application Development
+
+---
+
+## Contact
+
+Portfolio: [https://portfolio-pied-zeta-36.vercel.app/](https://portfolio-pied-zeta-36.vercel.app/)
+LinkedIn: [https://www.linkedin.com/in/sagnik-bhattacharya-462840319](https://www.linkedin.com/in/sagnik-bhattacharya-462840319)
+Email: [bhattacharyas661@gmail.com](mailto:bhattacharyas661@gmail.com)
