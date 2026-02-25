@@ -144,6 +144,6 @@ Note: Backend architecture, authentication systems, and core infrastructure were
 
 ## Contact
 
-Portfolio: [https://portfolio-pied-zeta-36.vercel.app/](https://portfolio-pied-zeta-36.vercel.app/)
-LinkedIn: [https://www.linkedin.com/in/sagnik-bhattacharya-462840319](https://www.linkedin.com/in/sagnik-bhattacharya-462840319)
-Email: [bhattacharyas661@gmail.com](mailto:bhattacharyas661@gmail.com)
+- Portfolio: [https://portfolio-pied-zeta-36.vercel.app/](https://portfolio-pied-zeta-36.vercel.app/)
+- LinkedIn: [https://www.linkedin.com/in/sagnik-bhattacharya-462840319](https://www.linkedin.com/in/sagnik-bhattacharya-462840319)
+- Email: [bhattacharyas661@gmail.com](mailto:bhattacharyas661@gmail.com)
