@@ -1,149 +1,201 @@
 # Sagnik Bhattacharya
 
-**Backend-Focused Full-Stack Developer**
-**Systems & Data Engineering Enthusiast**
-**B.S. in Data Science, IIT Madras | B.Tech in CSE, JGEC (2028)**
+Backend-Focused Full-Stack Developer
+Systems & Data Engineering Enthusiast
+B.S. in Data Science (IIT Madras) | B.Tech CSE (JGEC, 2028)
 
 ---
 
-## Professional Summary
+## About
 
-I am a backend-focused full-stack developer with a strong foundation in systems design, data engineering, and applied artificial intelligence. My work centers on building scalable backend architectures, secure APIs, developer tooling, and AI-powered automation systems.
+I design and build scalable backend systems, secure APIs, and AI-powered developer tools.
 
-I approach software development holistically — from system design and architectural planning to implementation, testing, and deployment — with emphasis on clean code, security, and production readiness.
+My work focuses on:
 
----
+* Backend architecture and system design
+* Authentication, authorization, and secure systems
+* Data engineering and analytics pipelines
+* AI-driven automation and intelligent tooling
 
-## Education
-
-**Bachelor of Technology (B.Tech), Computer Science & Engineering**
-Jalpaiguri Government Engineering College (2024–2028)
-Year GPA (First Year): 8.59
-
-**Bachelor of Science (B.S.), Data Science & Applications**
-Indian Institute of Technology, Madras (2024–Present)
-Current Level: Diploma
-CGPA (Foundation Level): 9.13
-
-**Academic Background**
-Class XII (CBSE): 95.2%
-Class X (ICSE): 95.2%
+I work across the full development lifecycle — from system design to deployment — with strong emphasis on performance, reliability, and production readiness.
 
 ---
 
-## Technical Expertise
+## Tech Stack
 
-### Backend & Systems Engineering
+### Languages
 
-Node.js • Express.js • FastAPI
-JWT Authentication • Authorization (AuthN/AuthZ)
-MongoDB • PostgreSQL • MySQL
-Prisma ORM • Drizzle ORM
-Secure API Design • REST Architecture • Scalable System Design
-
-### Frontend Development
-
-React • Next.js
-Tailwind CSS • Responsive Design
-HTML5 • CSS3
-
-### Data Science & AI
-
-Python • Pandas • NumPy
-Matplotlib • Seaborn
-Scikit-Learn • TensorFlow
-Power BI • Data Visualization
-Exploratory Data Analysis (EDA) • Statistical Modeling
-
-### Automation & Desktop Applications
-
-Python Automation Scripts
-Tkinter • CustomTkinter
-Secure Local Tooling & Utility Applications
-
-### Programming Languages & Tools
-
-JavaScript • TypeScript • Python • Java • C • C++
-Git • GitHub
-Vercel • Render
-
-Currently exploring: Agentic AI systems, LangGraph, automation architectures, and applied machine learning.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 
 ---
 
-## Selected Public Projects
+### Web Development
 
-### College Majors EDA Dashboard
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge)
 
-Comprehensive exploratory data analysis of U.S. college majors using Python and Excel dashboards.
-Repository: [https://github.com/Sagnik-Bhattacharya/college-majors-eda-dashboard](https://github.com/Sagnik-Bhattacharya/college-majors-eda-dashboard)
+---
 
-### Global Superstore Data Analytics
+### Databases
 
-End-to-end analytics project utilizing Python, SQL, and Excel dashboards for business insight extraction.
-Repository: [https://github.com/Sagnik-Bhattacharya/global-superstore-data-analytics](https://github.com/Sagnik-Bhattacharya/global-superstore-data-analytics)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+### Systems & Backend
+
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![API Tokens](https://img.shields.io/badge/API_Tokens-222222?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-4B0082?style=for-the-badge)
+
+---
+
+### AI / Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+---
+
+### Generative AI & Agents
+
+![LLMs](https://img.shields.io/badge/LLM_Integration-000000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4CAF50?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0A192F?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![JSON Parsing](https://img.shields.io/badge/JSON_Parsing-333333?style=for-the-badge)
+
+---
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+
+---
+
+## Featured Projects
+
+### Crudzy — Backend-as-a-Service Platform
+
+Scalable backend platform with dynamic collections, role-based access control, and API token authentication. Designed for rapid application development.
+Live: https://crudzy.com/
+
+---
+
+### Transform — AI Diagram Generator
+
+AI-powered system for generating ER diagrams, system designs, and code from natural language prompts.
+Live: https://systemdraw.vercel.app/
+
+---
+
+### WebNavi — AI Browser Automation Agent
+
+Autonomous browser agent that interprets natural language, analyzes DOM structures, and performs real-time web actions.
+Repo: https://github.com/Sagnik-Bhattacharya/WebNavi-Main
+
+---
+
+### NeuroDB — Custom Database Engine
+
+File-based document database implementing WAL, transactions, and crash recovery inspired by real-world database internals.
+Repo: https://github.com/Sagnik-Bhattacharya/NeuroDB
+
+---
+
+## Notable Projects
+
+### DataBrain
+
+CLI tool for automated data analysis, ML pipelines, visualization, and AI-generated insights.
+Repo: https://github.com/Sagnik-Bhattacharya/databrain
+
+### SmartCLI
+
+AI-powered terminal assistant that converts natural language into safe shell commands with recovery mechanisms.
+Repo: https://github.com/Sagnik-Bhattacharya/smartcli
+
+### MLMate
+
+AutoML CLI for preprocessing, training, evaluation, and hyperparameter tuning.
+Repo: https://github.com/Sagnik-Bhattacharya/mlmate
+
+### SentinelAI
+
+Secure AI execution framework with sandboxing and permission-based control for multi-step actions.
+Repo: https://github.com/Sagnik-Bhattacharya/Sentinel
 
 ### PyBackupSync
 
-Desktop backup and restore system featuring encryption, incremental processing, and a CustomTkinter-based interface.
-Repository: [https://github.com/Sagnik-Bhattacharya/PyBackupSync](https://github.com/Sagnik-Bhattacharya/PyBackupSync)
+Encrypted desktop backup system with incremental processing and CustomTkinter UI.
+Repo: https://github.com/Sagnik-Bhattacharya/PyBackupSync
 
-### Secure Vault
+### SecureVault
 
-Encrypted password manager with password strength analytics and dual UI modes (card and list).
-Repository: [https://github.com/Sagnik-Bhattacharya/secure-vault](https://github.com/Sagnik-Bhattacharya/secure-vault)
-
-### Titanic Survival Analysis
-
-Data analysis project integrating Python, MySQL, and Excel dashboards for exploratory and statistical evaluation.
-Repository: [https://github.com/Sagnik-Bhattacharya/titanic-survival-analysis](https://github.com/Sagnik-Bhattacharya/titanic-survival-analysis)
-
-### WebNavi
-
-AI-driven web form automation and browser-based task execution powered by local LLMs.
-Repository: [https://github.com/Sagnik-Bhattacharya/WebNavi-Main](https://github.com/Sagnik-Bhattacharya/WebNavi-Main)
+Desktop password manager with encrypted storage and password strength analytics.
+Repo: https://github.com/Sagnik-Bhattacharya/secure-vault
 
 ---
 
-## Additional Notable Projects
+## Data & Analytics Projects
 
-**Crudzy — Backend-as-a-Service Platform**
-Live: [https://crudzy.com/](https://crudzy.com/)
+- College Majors EDA Dashboard
+  https://github.com/Sagnik-Bhattacharya/college-majors-eda-dashboard
 
-**Transform — AI Diagram Generator**
-Live: [https://systemdraw.vercel.app/](https://systemdraw.vercel.app/)
+- Global Superstore Data Analytics
+  https://github.com/Sagnik-Bhattacharya/global-superstore-data-analytics
 
-**Doxel — Documentation Builder Platform**
-Live: [https://doxel.vercel.app/](https://doxel.vercel.app/)
-
-Note: Backend architecture, authentication systems, and core infrastructure were designed and implemented by me. Source repositories are private; live deployments are available.
+- Titanic Survival Analysis
+  https://github.com/Sagnik-Bhattacharya/titanic-survival-analysis
 
 ---
 
 ## Certifications
 
-* Full-Stack Generative & Agentic AI with Python — Udemy (2025)
-* Working with Version Control — FutureLearn (2025)
-* Foundations of Software Testing & Validation — FutureLearn (2025)
-* Complete Web Development Course — Udemy (2025)
-* How to Get Into Web Development — FutureLearn (2025)
-* An Introduction to Programming Using Python — FutureLearn (2025)
-* Learn to Code for the Web — FutureLearn (2025)
+- Generative & Agentic AI with Python — Udemy (2025)
+- Working with Version Control — FutureLearn (2025)
+- Foundations of Software Testing & Validation — FutureLearn (2025)
+- Complete Web Development Course — Udemy (2025)
 
 ---
 
-## Professional Interests
+## Interests
 
-* Scalable Backend Architecture
-* Distributed Systems & System Design
-* AI Agents & Automation Systems
-* Data Engineering & Analytics Infrastructure
-* Secure Application Development
+- Scalable Backend Architecture
+- Distributed Systems & System Design
+- AI Agents & Automation
+- Data Engineering
+- Secure Application Development
 
 ---
 
 ## Contact
 
-- Portfolio: [https://portfolio-pied-zeta-36.vercel.app/](https://portfolio-pied-zeta-36.vercel.app/)
-- LinkedIn: [https://www.linkedin.com/in/sagnik-bhattacharya-462840319](https://www.linkedin.com/in/sagnik-bhattacharya-462840319)
-- Email: [bhattacharyas661@gmail.com](mailto:bhattacharyas661@gmail.com)
+Portfolio: https://portfolio-pied-zeta-36.vercel.app/
+LinkedIn: https://www.linkedin.com/in/sagnik-bhattacharya-462840319
+Email: [bhattacharyas661@gmail.com](mailto:bhattacharyas661@gmail.com)
