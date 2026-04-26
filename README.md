@@ -473,6 +473,7 @@ python -m app.gui.app
 
 </details>
 
+---
 ## Data & Analytics Projects
 
 - College Majors EDA Dashboard
