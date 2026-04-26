@@ -130,36 +130,348 @@ Repo: https://github.com/Sagnik-Bhattacharya/NeuroDB
 
 ## Notable Projects
 
-### DataBrain
+# DataBrain
 
-CLI tool for automated data analysis, ML pipelines, visualization, and AI-generated insights.
-Repo: https://github.com/Sagnik-Bhattacharya/databrain
+Production-grade CLI for automated data analysis, ML pipelines, visualization, and AI-generated insights.
 
-### SmartCLI
+---
 
-AI-powered terminal assistant that converts natural language into safe shell commands with recovery mechanisms.
-Repo: https://github.com/Sagnik-Bhattacharya/smartcli
+## Key Features
+- End-to-end ML pipeline (data → model → insights)
+- Automatic task detection (classification/regression)
+- Model training + evaluation + selection
+- SHAP-based explainability
+- AI-generated insights + chat interface
+- PDF report generation
 
-### MLMate
+---
+
+## Tech Stack
+Python • pandas • scikit-learn • SHAP • matplotlib • click
+
+---
+
+## Quick Usage
+
+```bash
+python -m cli.main analyze data.csv --report --explain
+````
+
+---
+
+<details>
+<summary>View Full Documentation</summary>
+
+## Overview
+
+DataBrain automates the full lifecycle of data analysis and ML workflows with minimal configuration.
+
+## Features (Detailed)
+
+* Dataset profiling and validation
+* Preprocessing pipeline generation
+* Multi-model training
+* Visualization + reporting
+* Model persistence
+
+## Project Structure
+
+```
+(databrain structure here)
+```
+
+## Installation
+
+```bash
+git clone https://github.com/Sagnik-Bhattacharya/databrain.git
+cd databrain
+pip install -r requirements.txt
+```
+
+## Outputs
+
+* Plots → outputs/plots/
+* Models → outputs/models/
+* Reports → outputs/reports/
+
+## Design Principles
+
+* Modularity
+* Reproducibility
+* Extensibility
+
+## Future Enhancements
+
+* LLM integration
+* Distributed processing
+
+</details>
+
+---
+
+# SmartCLI
+
+AI-powered terminal assistant that converts natural language into safe, executable shell commands.
+
+---
+
+## Key Features
+- Natural language → shell commands
+- Multi-step execution
+- Context-aware memory
+- Safety layer (blocked / risky / safe)
+- Self-healing recovery system
+
+---
+
+## Example
+
+```
+
+"create a folder and go inside it"
+→ mkdir folder
+→ cd folder
+
+```
+
+---
+
+## Tech Stack
+Python • LLM (Ollama) • Rich • OS-level execution
+
+---
+
+<details>
+<summary>View Full Architecture</summary>
+
+## How It Works
+1. Input → LLM
+2. Context injection
+3. Command generation
+4. Safety filtering
+5. Execution
+6. Recovery
+
+## Safety System
+- Dangerous command blocking
+- Path validation
+- Confirmation for risky actions
+
+## Project Structure
+```
+
+(smartcli structure)
+
+````
+
+## Installation
+```bash
+git clone https://github.com/Sagnik-Bhattacharya/smartcli.git
+cd smartcli
+pip install -r requirements.txt
+````
+
+## Roadmap
+
+* Persistent memory
+* Plugin system
+* Voice interface
+
+</details>
+
+---
+
+# MLMate
 
 AutoML CLI for preprocessing, training, evaluation, and hyperparameter tuning.
-Repo: https://github.com/Sagnik-Bhattacharya/mlmate
 
-### SentinelAI
+---
 
-Secure AI execution framework with sandboxing and permission-based control for multi-step actions.
-Repo: https://github.com/Sagnik-Bhattacharya/Sentinel
+## Features
+- Automatic task detection
+- Model selection & training
+- Hyperparameter tuning (Optuna)
+- Performance leaderboard
+- Insight engine
 
-### PyBackupSync
+---
 
-Encrypted desktop backup system with incremental processing and CustomTkinter UI.
-Repo: https://github.com/Sagnik-Bhattacharya/PyBackupSync
+## Usage
 
-### SecureVault
+```bash
+python -m cli.main train --file data.csv --target price --tune
+````
 
-Desktop password manager with encrypted storage and password strength analytics.
-Repo: https://github.com/Sagnik-Bhattacharya/secure-vault
+---
 
+<details>
+<summary>View Full Details</summary>
+
+## Overview
+
+End-to-end AutoML pipeline with CLI-first design.
+
+## Models Supported
+
+* Linear Regression
+* Decision Trees
+* Random Forest
+
+## Project Structure
+
+```
+(mlmate structure)
+
+## Future Enhancements
+
+* SHAP explainability
+* Experiment tracking
+* SaaS backend
+
+</details>
+
+---
+
+# SentinelAI
+
+Secure AI execution framework with sandboxing and permission-based control.
+
+---
+
+## Features
+- Structured JSON planning
+- Multi-step execution
+- Permission-based control
+- Sandbox isolation
+- Tool validation
+
+---
+
+## Architecture
+LLM → Planner → Validator → Permission → Sandbox → Execution
+
+---
+
+<details>
+<summary>Deep Dive</summary>
+
+## Security Model
+- Schema validation
+- Tool whitelisting
+- Path restrictions
+- Risk-based approvals
+
+## Setup (Ollama + Docker)
+```bash
+docker run -d -p 11434:11434 ollama/ollama
+````
+
+## Project Structure
+
+```
+(sentinel structure)
+```
+
+## Future Enhancements
+
+* Replanning
+* Memory layer
+* Tool expansion
+
+</details>
+
+---
+
+# PyBackupSync
+
+Encrypted desktop backup system with incremental processing and modern UI.
+
+---
+
+## Features
+- Incremental backups (hash-based)
+- Encryption (Fernet)
+- Restore system
+- Multi-threaded UI
+- Progress tracking
+
+---
+
+## Run
+
+```bash
+python ui.py
+````
+
+---
+
+<details>
+<summary>Full Details</summary>
+
+## Architecture
+
+* Backup engine
+* Encryption module
+* UI (CustomTkinter)
+
+## Project Structure
+
+```
+(PyBackupSync structure)
+```
+
+## Notes
+
+* Do not commit secret.key
+* Backups stored locally
+
+</details>
+
+---
+
+# SecureVault
+
+Desktop password manager with encrypted storage and password analytics.
+
+---
+
+## Features
+- Encrypted vault
+- Password strength analysis
+- Import/export system
+- Auto-lock security
+- Dark UI
+
+---
+
+## Run
+
+```bash
+python -m app.gui.app
+````
+
+---
+
+<details>
+<summary>Full Details</summary>
+
+## Features (Detailed)
+
+* Tag-based organization
+* Clipboard security
+* Dual UI views
+
+## Project Structure
+
+```
+(secure-vault structure)
+```
+
+## Screenshots
+
+(Add your images here)
+
+</details>
 ---
 
 ## Data & Analytics Projects
