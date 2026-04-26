@@ -130,7 +130,7 @@ Repo: https://github.com/Sagnik-Bhattacharya/NeuroDB
 
 ## Notable Projects
 
-# DataBrain
+# 1. DataBrain
 
 Production-grade CLI for automated data analysis, ML pipelines, visualization, and AI-generated insights.
 
@@ -209,7 +209,7 @@ pip install -r requirements.txt
 
 ---
 
-# SmartCLI
+# 2. SmartCLI
 
 AI-powered terminal assistant that converts natural language into safe, executable shell commands.
 
@@ -281,7 +281,7 @@ pip install -r requirements.txt
 
 ---
 
-# MLMate
+# 3. MLMate
 
 AutoML CLI for preprocessing, training, evaluation, and hyperparameter tuning.
 
@@ -382,7 +382,7 @@ docker run -d -p 11434:11434 ollama/ollama
 
 ---
 
-# PyBackupSync
+# 4. PyBackupSync
 
 Encrypted desktop backup system with incremental processing and modern UI.
 
@@ -429,7 +429,7 @@ python ui.py
 
 ---
 
-# SecureVault
+# 5. SecureVault
 
 Desktop password manager with encrypted storage and password analytics.
 
@@ -472,7 +472,6 @@ python -m app.gui.app
 (Add your images here)
 
 </details>
----
 
 ## Data & Analytics Projects
 
