@@ -87,7 +87,7 @@ I design and build highly scalable backend architectures, zero-trust security pi
   </tr>
   <tr>
     <td>
-      <h4><a href="https://github.com/Sagnik-Bhattacharya/SentinelAI">SentinelAI — Secure AI Execution Framework</a></h4>
+      <h4><a href="https://github.com/Sagnik-Bhattacharya/Sentinel">Sentinel — Secure AI Execution Framework</a></h4>
       <p>A secure runtime environment built for executing autonomous AI actions within strict, permissioned guardrails.</p>
       <ul>
         <li><strong>Architecture:</strong> Leverages deterministic JSON action plans parsed through a strict validation engine before execution occurs within safe, containerized sandbox isolation zones.</li>
