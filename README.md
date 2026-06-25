@@ -10,7 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=120&section=header&text=Welcome%20to%20My%20Engineering%20Lab&fontSize=24&animation=twinkling" width="100%" />
 </p>
 
-### 💫 About Me
+### About Me
 
 <p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p5cmM0bms0bXN6MThnbmthY295MXBwNHAxb3I1Znd0N3RyeWJpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" align="right" alt="Coding Animation"/>
@@ -18,20 +18,20 @@
 
 I design and build highly scalable backend architectures, zero-trust security pipelines, and autonomous AI-driven orchestration systems. I thrive on diving deep into database internals and bridging engineering with applied data science.
 
-* 🎯 **Core Focus:** Distributed System Design, Secure API Architectures, and Multi-Agent Systems.
-* 💡 **Philosophy:** Writing clean, testable, production-ready code with built-in fault tolerance and low-latency throughput.
-* 🎓 **Academic Edge:** Melding rigorous data profiling, analytics pipelines, and data structures from my dual engineering paths.
+* **Core Focus:** Distributed System Design, Secure API Architectures, and Multi-Agent Systems.
+* **Philosophy:** Writing clean, testable, production-ready code with built-in fault tolerance and low-latency throughput.
+* **Academic Edge:** Melding rigorous data profiling, analytics pipelines, and data structures from my dual engineering paths.
   * *B.S. in Data Science (IIT Madras)*
   * *B.Tech in Computer Science & Engineering (JGEC, 2028)*
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### Tech Stack & Ecosystem
 
 <table border="0" align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h4>⚡ Languages</h4>
+      <h4>Languages</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -41,7 +41,7 @@ I design and build highly scalable backend architectures, zero-trust security pi
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
     </td>
     <td valign="top" width="50%">
-      <h4>🚀 Web & Backend</h4>
+      <h4>Web & Backend</h4>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -52,7 +52,7 @@ I design and build highly scalable backend architectures, zero-trust security pi
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>💾 Databases & Security</h4>
+      <h4>Databases & Security</h4>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
       <br><br>
@@ -60,7 +60,7 @@ I design and build highly scalable backend architectures, zero-trust security pi
       <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
     </td>
     <td valign="top" width="50%">
-      <h4>🧠 Data, ML & Agentic AI</h4>
+      <h4>Data, ML & Agentic AI</h4>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
       <br><br>
@@ -72,7 +72,7 @@ I design and build highly scalable backend architectures, zero-trust security pi
 
 ---
 
-### 📊 Live GitHub Core Activity & Analytics
+### Live GitHub Core Activity & Analytics
 
 <!-- Animated Stats Dashboard Container -->
 <p align="center">
@@ -92,19 +92,19 @@ I design and build highly scalable backend architectures, zero-trust security pi
 
 ---
 
-### ⚡ Current Engineering Pulse
-* 🛠️ **System Sandbox:** Optimizing the async architecture and engine core of **NeuroDB**.
-* 📖 **Research Vector:** Deep-diving into production-grade distributed consensus protocols ($Raft$/$Paxos$) and engine thread concurrency.
-* 💬 **Ping Me For:** Distributed multi-agent execution graphs, semantic processing, and transaction structures.
+### Current Engineering Pulse
+* **System Sandbox:** Optimizing the async architecture and engine core of **NeuroDB**.
+* **Research Vector:** Deep-diving into production-grade distributed consensus protocols ($Raft$/$Paxos$) and engine thread concurrency.
+* **Ping Me For:** Distributed multi-agent execution graphs, semantic processing, and transaction structures.
 
 ---
 
-### 🚀 Featured Engineering Systems
+### Featured Engineering Systems
 
 <table border="0">
   <tr>
     <td>
-      <h4>🤖 <a href="https://github.com/Sagnik-Bhattacharya/WebNavi-Main">WebNavi — AI Browser Automation Agent</a></h4>
+      <h4><a href="https://github.com/Sagnik-Bhattacharya/WebNavi-Main">WebNavi — AI Browser Automation Agent</a></h4>
       <p>An autonomous, LLM-powered browser agent engineered to process natural language goals into precise, real-time web actions.</p>
       <ul>
         <li><strong>Architecture:</strong> Semantic DOM tree distillation and parsing to feed compact contextual layout data into models.</li>
@@ -114,7 +114,7 @@ I design and build highly scalable backend architectures, zero-trust security pi
   </tr>
   <tr>
     <td>
-      <h4>💾 <a href="https://github.com/Sagnik-Bhattacharya/NeuroDB">NeuroDB — Custom Database Engine</a></h4>
+      <h4><a href="https://github.com/Sagnik-Bhattacharya/NeuroDB">NeuroDB — Custom Database Engine</a></h4>
       <p>A low-level, file-based document database built from scratch to explore database storage engine internals.</p>
       <ul>
         <li><strong>Architecture:</strong> Write-Ahead Log (WAL) for durability, ACID transaction boundaries, and system failure crash-recovery patterns.</li>
@@ -124,7 +124,7 @@ I design and build highly scalable backend architectures, zero-trust security pi
   </tr>
   <tr>
     <td>
-      <h4>🛡️ <a href="https://github.com/Sagnik-Bhattacharya/Sentinel">Sentinel — Secure AI Execution Framework</a></h4>
+      <h4><a href="https://github.com/Sagnik-Bhattacharya/Sentinel">Sentinel — Secure AI Execution Framework</a></h4>
       <p>A secure runtime environment built for executing autonomous AI actions within strict, permissioned guardrails.</p>
       <ul>
         <li><strong>Architecture:</strong> Deterministic JSON action plans validated cleanly through a strict execution engine within sandboxed Docker isolation layers.</li>
@@ -135,18 +135,18 @@ I design and build highly scalable backend architectures, zero-trust security pi
 </table>
 
 <details>
-<summary><b>🔍 View Additional Micro-Systems & Architectures</b></summary>
+<summary><b>View Additional Micro-Systems & Architectures</b></summary>
 <br>
 <table border="0">
   <tr>
     <td>
-      <h4>💻 <a href="https://github.com/Sagnik-Bhattacharya/smartcli">SmartCLI — Intent-Driven Shell Assistant</a></h4>
+      <h4><a href="https://github.com/Sagnik-Bhattacharya/smartcli">SmartCLI — Intent-Driven Shell Assistant</a></h4>
       <p>Context-aware terminal utility mapping raw natural language prompts safely straight into native executable streams.</p>
     </td>
   </tr>
   <tr>
     <td>
-      <h4>📊 <a href="https://github.com/Sagnik-Bhattacharya/databrain">DataBrain & MLMate — AutoML Suite</a></h4>
+      <h4><a href="https://github.com/Sagnik-Bhattacharya/databrain">DataBrain & MLMate — AutoML Suite</a></h4>
       <p>Advanced pipeline suite completely automating the ML development framework lifecycle from data profiling to black-box explanations.</p>
     </td>
   </tr>
@@ -155,22 +155,22 @@ I design and build highly scalable backend architectures, zero-trust security pi
 
 ---
 
-### 📈 Data Science & Portfolios
+### Data Science & Portfolios
 
-* **📊 [College Majors EDA Dashboard](https://github.com/Sagnik-Bhattacharya/college-majors-eda-dashboard):** Interactive data pipeline parsing demographic configurations and salary fluctuations.
-* **🌐 [Global Superstore Data Analytics](https://github.com/Sagnik-Bhattacharya/global-superstore-data-analytics):** Data analytics pipeline uncovering critical infrastructure supply-chain overheads.
-* **🚢 [Titanic Survival Analysis](https://github.com/Sagnik-Bhattacharya/titanic-survival-analysis):** Benchmark classification model processing feature dependencies.
-
----
-
-### 🌐 Live Systems Production Traces
-
-* **⚡ [Crudzy](https://crudzy.com/):** High-throughput, distributed Backend-as-a-Service (BaaS) providing secure RBAC tokens and multi-tenant collection generation.
-* **🎨 [Transform](https://systemdraw.vercel.app/):** Intent compiler processing system abstract graphics immediately into interactive system ER diagrams.
+* **[College Majors EDA Dashboard](https://github.com/Sagnik-Bhattacharya/college-majors-eda-dashboard):** Interactive data pipeline parsing demographic configurations and salary fluctuations.
+* **[Global Superstore Data Analytics](https://github.com/Sagnik-Bhattacharya/global-superstore-data-analytics):** Data analytics pipeline uncovering critical infrastructure supply-chain overheads.
+* **[Titanic Survival Analysis](https://github.com/Sagnik-Bhattacharya/titanic-survival-analysis):** Benchmark classification model processing feature dependencies.
 
 ---
 
-### 🤝 Interconnect Topology
+### Live Systems Production Traces
+
+* **[Crudzy](https://crudzy.com/):** High-throughput, distributed Backend-as-a-Service (BaaS) providing secure RBAC tokens and multi-tenant collection generation.
+* **[Transform](https://systemdraw.vercel.app/):** Intent compiler processing system abstract graphics immediately into interactive system ER diagrams.
+
+---
+
+### Interconnect Topology
 
 <p align="left">
   <a href="https://portfolio-pied-zeta-36.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
