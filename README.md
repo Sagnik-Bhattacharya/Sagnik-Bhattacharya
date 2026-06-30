@@ -176,6 +176,7 @@ I design and build highly scalable backend architectures, zero-trust security pi
   <a href="https://portfolio-pied-zeta-36.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sagnik-bhattacharya-462840319"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bhattacharyas661@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/coder-op/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=60&section=footer" width="100%" />
